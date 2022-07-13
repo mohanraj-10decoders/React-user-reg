@@ -27,7 +27,7 @@ function AllUsers({ users, setUsers }) {
               <TableCell style={styles}>Email</TableCell>
               <TableCell style={styles}>Phone</TableCell>
               <TableCell style={styles}>City</TableCell>
-              <TableCell style={styles}>Countr</TableCell>
+              <TableCell style={styles}>Country</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
