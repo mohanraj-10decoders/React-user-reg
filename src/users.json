@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "firstName":"Mohan",
+        "lastName":"L",
+        "phone": 9876543201,
+        "email": "mohan@email.com",
+        "city":"Chennai",
+        "country":"India"
+    },
+    {
+        "id":2,
+        "firstName":"Raj",
+        "lastName":"L",
+        "phone": 9876543202,
+        "email": "raj@email.com",
+        "city":"Bangalore",
+        "country":"India"
+    },
+    {
+        "id":3,
+        "firstName":"Prem",
+        "lastName":"L",
+        "phone": 9876543203,
+        "email": "prem@email.com",
+        "city":"Madurai",
+        "country":"India"
+    }
+]
